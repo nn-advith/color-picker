@@ -1,2 +1,2 @@
 # color-picker
-Created with CodeSandbox
+Color picker using react
